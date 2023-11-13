@@ -2,11 +2,11 @@ package com.atguigu.git;
 
 /**
  * @author Icarus
- * @date 2023/11/13 14:22
+ * @date 2023/11/13 14:29
  **/
-public class BiXieJianFa {
+public class DuGuJiuJian {
     public static void main(String[] args) {
-        System.out.println("辟邪剑法");
+        System.out.println("独孤九剑");
     }
 }
 
