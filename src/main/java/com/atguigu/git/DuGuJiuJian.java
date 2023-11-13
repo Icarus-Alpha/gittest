@@ -7,6 +7,8 @@ package com.atguigu.git;
 public class DuGuJiuJian {
     public static void main(String[] args) {
         System.out.println("独孤九剑");
+
+        System.out.println("独孤九剑乃我华山一剑，剑法已经到了炉火纯青的境界");
     }
 }
 
